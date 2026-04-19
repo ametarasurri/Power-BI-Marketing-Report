@@ -1,4 +1,3 @@
-# Power BI-marketing-dashboard
 # Nykaa Marketing Campaign Performance Dashboard
 ### Power BI | 55,555 Records | 4 Pages
 
