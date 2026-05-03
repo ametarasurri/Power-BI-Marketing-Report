@@ -2,7 +2,7 @@
 ### Power BI | 55,555 Records | 4 Pages
 ---
 
-##🎥 Video Walkthrough
+## 🎥 Video Walkthrough
 
 I recorded a full walkthrough of this dashboard — page by page, chart by chart and the business insights I found. If you want to understand what's in here without opening Power BI, the video covers everything.
 
