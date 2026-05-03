@@ -11,7 +11,6 @@
 *A complete video walkthrough of all 4 pages — business insights, DAX measures explained, and key findings.*
 
 ---
----
 
 Was looking for a dataset online to build a dashboard. Found a Nykaa campaign dataset on Kaggle — 55,555 rows, 16 columns, good enough to calculate a lot of things. So I got to work.
 
