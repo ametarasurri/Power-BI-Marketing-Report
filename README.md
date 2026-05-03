@@ -2,7 +2,7 @@
 ### Power BI | 55,555 Records | 4 Pages
 ---
 
-## 📽️ Dashboard Walkthrough — Watch This First
+## 📽️ Report Walkthrough — Watch This First
 
 > **Don't just read — see it in action.**
 
