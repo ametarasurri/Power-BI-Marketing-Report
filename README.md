@@ -1,6 +1,8 @@
 # Nykaa Marketing Campaign Performance Dashboard
 ### Power BI | 55,555 Records | 4 Pages
 
+🎥 [Watch Dashboard Walkthrough](https://www.loom.com/share/c3173eec93a44069a7c6c0da274a34ba)
+
 ---
 
 Was looking for a dataset online to build a dashboard. Found a Nykaa campaign dataset on Kaggle — 55,555 rows, 16 columns, good enough to calculate a lot of things. So I got to work.
