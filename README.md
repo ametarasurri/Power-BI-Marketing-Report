@@ -6,7 +6,7 @@
 
 > **Don't just read — see it in action.**
 
-🎥 **[Click here to watch the full report walkthrough](https://www.loom.com/share/c3173eec93a44069a7c6c0da274a34ba)**
+🎥 **[Click here to watch the full report walkthrough video](https://www.loom.com/share/c3173eec93a44069a7c6c0da274a34ba)**
 
 ---
 
