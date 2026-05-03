@@ -18,7 +18,7 @@ Was looking for a dataset online to build a report. Found a Nykaa campaign datas
 
 Sat with the data before opening Power BI. Went through every column. Asked myself — if I was a marketing analyst here what would i want to know.
 
-That became the dashboard.
+That became the Report.
 
 Kept the design clean — dark background, Nykaa pink, white text.
 
