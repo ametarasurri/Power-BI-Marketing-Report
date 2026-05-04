@@ -59,7 +59,7 @@ Power BI Desktop — DAX — Excel — Canva — Kaggle
 
 | Folder | Contents |
 |--------|----------|
-| [Dashboard](./Dashboard) | PBIX file + PDF export |
+| [Report](./Report) | PBIX file + PDF export |
 | [Data](./Data) | Kaggle CSV dataset |
 | [Image Preview](./Image%20Preview) | Screenshots of the report |
 
